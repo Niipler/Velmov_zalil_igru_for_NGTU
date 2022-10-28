@@ -1,0 +1,3 @@
+switch_setka == F
+switch_fly == F
+switch_immortal == F

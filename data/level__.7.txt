@@ -1,0 +1,11 @@
+Player 365 255
+Block 320 300 120 10
+Bc_image 0 0 bc_image_glaz.png
+Block 245 235 20 20
+Block 160 180 20 20
+Block 30 135 90 7
+Portal 45 60 level__.1.txt
+Portal 45 410 level__.6.txt
+Block 245 360 20 20
+Block 160 415 20 20
+Block 30 480 90 7

@@ -1,0 +1,18 @@
+Block 60 520 50 10
+Red_Block 0 597 800 3
+Player 70 500
+Portal 680 80 level__.3.txt
+Heart 710 245
+Bc_image 100 55 bc_image_l2gd.png
+Sphere 232 478 100
+Sphere 354 468 100
+Sphere 201 328 100
+Sphere 295 220 100
+Sphere 456 206 100
+Sphere 580 175 100
+Block 400 431 50 10
+Block 250 383 50 10
+Block 640 150 150 70
+Phantom_Block 640 220 150 80
+Block 640 300 150 10
+Block 130 285 50 10

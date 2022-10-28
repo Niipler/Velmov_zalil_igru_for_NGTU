@@ -1,0 +1,27 @@
+Player 690 530
+Block 640 550 120 10
+Moving_Block 450 550 60 8 1 580 170
+Sphere 170 480 100
+Sphere 170 440 100
+Sphere 170 400 100
+Sphere 170 360 100
+Sphere 170 320 100
+Sphere 170 280 100
+Sphere 170 240 100
+Sphere 170 200 100
+Sphere 170 160 100
+Block 245 160 240 10
+Block 550 160 249 10
+Block 245 160 10 280
+Block 245 440 554 10
+Bc_image 270 30 bc_image_joke2.png
+Bc_image 262 187 bc_image_trap.png
+Bc_image 610 210 bc_image_trapjoke.png
+Block 450 390 140 3
+Red_Block 255 437 544 3
+Portal 680 75 level__.5.txt
+Portal 55 65 level__.4.txt
+Block 35 130 100 7
+Phantom_Block 245 160 554 280
+Red_Block 0 597 800 3
+Heart 60 235

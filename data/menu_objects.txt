@@ -1,0 +1,3 @@
+button==250 20 start_button.png start_last_level
+button==250 210 select_level_button.png select_level
+button==250 400 options_button.png options

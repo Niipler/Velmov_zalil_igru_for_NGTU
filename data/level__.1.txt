@@ -1,0 +1,13 @@
+Player 150 300
+Block 100 350 120 50
+Red_Block 0 597 800 3
+Block 340 300 70 40
+Red_Block 500 200 10 300
+Block 110 240 110 8
+Block 340 180 100 8
+Red_Block 500 200 100 10
+Red_Block 650 200 800 10
+Block 540 500 240 10
+Portal 710 430 level__.2.txt
+Bc_image 528 361 bc_image_portal.png
+Bc_image 180 55 bc_image_pyon.png

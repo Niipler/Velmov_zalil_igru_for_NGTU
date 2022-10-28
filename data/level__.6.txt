@@ -1,0 +1,30 @@
+Player 690 520
+Block 640 550 120 10
+Block 1 520 550 7
+Block 80 460 470 7
+Red_Block 530 425 20 35
+Red_Block 0 597 800 3
+Turrel -10 470 right 7 300
+Turrel -10 490 right 3 200
+Block 257 374 40 40
+Moving_Block 600 400 50 20 1 730 580
+Sphere 445 350 100
+Sphere 135 300 100
+Block 1 260 55 50
+Block 140 199 20 20
+Block 210 190 20 20
+Block 261 130 20 20
+Block 361 198 20 20
+Block 519 112 20 20
+Block 471 175 20 20
+Block 643 115 20 20
+Block 564 201 20 20
+Block 722 132 20 20
+Block 523 38 20 20
+Block 371 41 20 20
+Block 238 38 20 20
+Block 327 65 20 20
+Portal 700 50 level__.7.txt
+Bc_image 500 130 bc_image_hz.png
+Heart 30 120
+Heart 230 1

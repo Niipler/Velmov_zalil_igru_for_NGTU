@@ -1,0 +1,13 @@
+Player 690 100
+Block 670 130 70 10
+Red_Block 0 597 800 3
+Red_Block 150 180 800 3
+Red_Block 600 345 3 255
+Moving_Block 520 130 50 8 1 640 200
+Turrel -10 95 right 5 100
+Turrel 35 590 up 10 300
+Sphere 97 338 100
+Moving_Block 372 350 50 8 -1 500 200
+Block 640 550 70 10
+Portal 645 490 level__.4.txt
+Bc_image 200 420 bc_image_joke1.png

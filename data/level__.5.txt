@@ -1,0 +1,28 @@
+Player 40 50
+Moving_Block 200 400 50 50 1 350 100
+Block 20 180 80 10
+Red_Block 0 597 800 3
+Red_Block 400 250 20 130
+Red_Block 250 250 300 10
+Red_Block 250 1 10 250
+Red_Block 550 1 10 50
+Red_Block 550 110 10 150
+Sphere 345 500 100
+Sphere 480 500 100
+Block 615 480 50 50
+Block 760 450 40 5
+Block 760 400 40 5
+Block 760 350 40 5
+Block 760 300 40 5
+Block 760 250 40 5
+Turrel 725 590 up 7 200
+Block 615 150 80 8
+Sphere 770 180 100
+Portal 625 85 level__.6.txt
+Phantom_Block 250 1 310 259 red
+Block 280 220 250 8
+Sphere 515 150 100
+Heart 295 110
+Heart 325 110
+Heart 310 150
+Bc_image 380 60 bc_image_UwU.png
